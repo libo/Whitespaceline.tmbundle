@@ -3,6 +3,13 @@ Whitespaceline.tmbundle
 
 A Textmate 2 bundle that just removes white spaces and adds a newline for you on save.
 
+It simply uses the power of sed and perl incantated from your bash:
+
+```bash
+sed -a '$a\'
+perl -pe 's/[\t ]+$//g'
+```
+
 ## Installation
 
 ```bash
