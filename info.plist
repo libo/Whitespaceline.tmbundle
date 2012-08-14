@@ -8,7 +8,7 @@
 	<string>Liborio Cannici</string>
 	<key>description</key>
 	<string>Simple bundle that removes white spaces and add a new line at the end of the file for you.
-It uses the power os sed and perl.
+It uses the power of sed and perl.
 </string>
 	<key>name</key>
 	<string>Whitespaceline</string>
