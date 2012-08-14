@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string>yvob@mraqrfx.pbz</string>
+	<key>contactName</key>
+	<string>Liborio Cannici</string>
+	<key>description</key>
+	<string>Simple bundle that removes white speces and add a new line at the end of the file for you.
+It uses the power os sed and perl.
+</string>
+	<key>name</key>
+	<string>Whitespaceline</string>
+	<key>uuid</key>
+	<string>D4E53756-7CD7-416F-BBA6-9F8B4848577E</string>
+</dict>
+</plist>
