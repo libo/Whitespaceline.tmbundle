@@ -13,7 +13,7 @@ perl -pe 's/[\t ]+$//g'
 ## Installation
 
 ```bash
-mkdir -p "~/Library/Application Support/Avian/Bundles"
-cd "~/Library/Application Support/Avian/Bundles"
+mkdir -p ~/Library/Application\ Support/Avian/Bundles/
+cd ~/Library/Application\ Support/Avian/Bundles/
 git clone git@github.com:libo/Whitespaceline.tmbundle.git
 ```
