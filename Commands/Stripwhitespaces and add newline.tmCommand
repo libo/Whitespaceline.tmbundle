@@ -8,8 +8,7 @@
 	<string>#!/usr/bin/env bash
 [[ -f "${TM_SUPPORT_PATH}/lib/bash_init.sh" ]] &amp;&amp; . "${TM_SUPPORT_PATH}/lib/bash_init.sh"
 
-sed -a '$a\'
-perl -pe 's/[\t ]+$//g'
+perl -pe 's/[\t ]+$//g' | sed -a '$a\'
 </string>
 	<key>input</key>
 	<string>document</string>
